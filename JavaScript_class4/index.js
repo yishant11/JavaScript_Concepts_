@@ -17,7 +17,7 @@
 // let stand = function walk() {
 //     console.log('walking');
 // };
-
+//IMP HAI
 // //Anonymous function assignment
 // let stand2 = function() {
 //     console.log('walking');
